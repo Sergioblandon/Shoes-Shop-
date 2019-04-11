@@ -1,0 +1,34 @@
+h1,h2{
+    text-align: center;
+}
+ 
+
+/*--------------------------------------------*/
+.container{
+    width: 100%;
+    height: 300px;
+    
+}
+
+.content{
+    width: 15%;
+    height: 200px;
+    border: 2px solid black;
+    float: left;
+    margin-top: 20px;
+}
+
+#left{
+    margin-left: 7.5%;
+}
+
+.mileft{
+    margin-left: 20%;
+}
+
+.container img{
+    width: 100%;
+    max-width: 200px;
+}
+
+
